@@ -16,13 +16,13 @@
 }
 
 .flex-container > div {
-  width: 100px;
-  height: 100px;
+  width: 520px;
+  height: 180px;
   text-align: center;
   font-size: 30px;
   line-height: 72px;
 }
 
 img {
-  border: 2px solid #1a1c23;
+  border: 0px solid #1a1c23;
 }
