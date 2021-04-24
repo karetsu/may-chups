@@ -1,0 +1,49 @@
+#+TITLE: Slayer
+#+OPTIONS: toc:nil num:nil 
+#+SETUPFILE: ../assets/char.org
+
+#+SUBTITLE: Even
+
+#+BEGIN_EXPORT html
+<div class="flexbox">
+#+END_EXPORT
+
+* Combos
+- Weight :: normal
+- OHK ::
+  + jump install 
+  + 6h > 5sh > 5ps
+- Lame :: 5sh > 5sh > 5p
+- DDU :: j2h 2d fb-hvd, ad.kh, hvd, 5s hvd
+- Jackhound :: yes
+- 2h 2d :: no
+
+* Punishes
+- Crosswise heel :: microdash > c5s 2h
+- DoT :: 5s immediately after he passes through 
+- Big Bang Upper :: 3k
+- Eternal Wings :: j.h (ch)
+
+* Counters
+- Slashback :: yes
+- Dandy (anything) :: 3k unless he uses frc
+- Air dash :: svd
+- j.h :: none, jump IB > landing j.k or slashback
+- Air moves :: not 6p, air to air j.h is strong
+- 2h :: 5k
+- 2d :: 5k
+- Bloodsucking Universe :: 5k
+
+* Gameplan
+- Hoops are great, p hoop especially as he doesn't really have any answers to this unless he has 50 meter
+- 5k the universe, its amazing in this matchup
+- do not use 5h to poke
+- fd when he's close and 1fj out but beware 2s, stupid button
+- when he is outside of 2h range he can only really come in with 5 things [2d, 6h, mappa, iad, dot]
+- aim to keep him outside of his 2h and bbu range and really frustrate him
+- j.h if he starts to get jumpy
+
+#+BEGIN_EXPORT html
+</div>
+<div class="back"></div>
+#+END_EXPORT

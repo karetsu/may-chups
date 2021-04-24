@@ -1,0 +1,40 @@
+#+TITLE: Jam Kuradoberi
+#+OPTIONS: toc:nil num:nil 
+#+SETUPFILE: ../assets/char.org
+
+#+SUBTITLE: Slight Jam favour
+
+#+BEGIN_EXPORT html
+<div class="flexbox">
+#+END_EXPORT
+
+* Combos
+- Weight :: light
+- OHK ::
+  + 5sh > 5p > 5ps
+- Lame :: 5sh > 5p > 5p
+- Jackhound :: no
+
+* Punishes
+- Gekirin :: jump > IB > throw or 2p
+- Ryuujin :: standard combo of choice
+
+- Slashback :: 6h, puffball
+
+* Counters
+- IAD :: 5h
+- Command dash :: 3k
+- Puffball :: 3k
+
+
+* Gameplan
+- Play more neutral, Jam has too many reversal options to consistently oki easily
+- 5h at neutral, lots of it to catch normals, air dashes and more
+- 3k the command dash on reaction if possible
+- Zone with j.s
+- Meaty with ranged 2k or 2h to low profile DP
+  
+#+BEGIN_EXPORT html
+</div>
+<div class="back"></div>
+#+END_EXPORT

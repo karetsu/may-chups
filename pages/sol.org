@@ -1,0 +1,47 @@
+#+TITLE: Sol Badguy
+#+OPTIONS: toc:nil num:nil 
+#+SETUPFILE: ../assets/char.org
+
+#+SUBTITLE: Slight May favour
+
+#+BEGIN_EXPORT html
+<div class="flexbox">
+#+END_EXPORT
+
+
+* Combos
+- Weight :: normal
+- OHK ::
+  + jump install 
+  + 6h > 5sh > 5ps
+- Lame :: 5sh > 5sh > 5p
+- DDU :: 2d fb-hvd, ad.kh, hvd, 5s hvd
+- Jackhound :: yes
+- 2h 2d :: no
+
+* Punishes
+- Volcanic Viper :: block, 5s or OHK
+- Grand Viper :: block, 2h fb-hhd, lame loop
+- Riot Stomp :: 6p
+- Bandit * :: jump ib, land, ohk
+- Gun Flame :: iad.sh (max range)
+
+- Slashback :: no
+
+* Counters
+- Bandit bringer :: If you have charge then svd
+- j.h :: nothing
+- j.p :: nothing
+- Gun Flame :: short dash fd to reduce frame advantage
+
+* Gameplan
+- *zone* with hoops, 5k and dash 2s
+- don't overextend on oki, bait VV in as many different ways as possible
+- safejumps
+- keep Sol out of his mixup range (1) and make him spend all his health trying to get into it
+- his only ways to break a crouch guard are 5d and wild throw, both of which are free to 1fj
+  
+#+BEGIN_EXPORT html
+</div>
+<div class="back"></div>
+#+END_EXPORT
