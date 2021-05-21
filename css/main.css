@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+/* compendium */
+
+html {
+  background-color: #1c1e26;
+}
+
 .body {
   text-align: center;
   vertical-align: middle;
@@ -16,13 +24,28 @@
 }
 
 .flex-container > div {
-  width: 520px;
-  height: 180px;
+  width: [(width - 200)/6]vw;
+  height: auto;
   text-align: center;
   font-size: 30px;
-  line-height: 72px;
+  line-height: 60px;
 }
 
 img {
-  border: 0px solid #1a1c23;
+  border: 0;
+  max-width: 400px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  font-family: 'Pattaya', sans-serif;
+  color: #ffb600;
+  text-shadow: 0 0 10px #16161C;
+}
+
+name {
+  position: absolute;
+  left: 50%;
+  top: 0;
 }
